@@ -1,6 +1,6 @@
 # Talap Ali
 
-**Phone:** +7 747 *** **\*\*
+**Phone:** +7 747 *** **\*\*\
 **Email:** talapali@mail.ru
 
 # About myself
@@ -89,11 +89,11 @@ var decodeMorse = function(morseCode){
 # Work experience
 
 ### Landing page
-*Languages:* HTML, CSS
+*Languages:* HTML, CSS\
 *Link:* [GitHub](https://github.com/Bauyrsaq/Landing-Page)
 
 ### Rock paper scissors
-*Languages:* JavaScript, HTML, CSS
+*Languages:* JavaScript, HTML, CSS\
 *Link:* [GitHub](https://github.com/Bauyrsaq/rock-paper-scissors)
 
 # Education
