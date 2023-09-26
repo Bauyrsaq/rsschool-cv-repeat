@@ -1,1 +1,1 @@
-# rsschool-cv-repeat
+https://bauyrsaq.github.io/rsschool-cv-repeat/cv
