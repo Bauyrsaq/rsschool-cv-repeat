@@ -1,7 +1,7 @@
 # Talap Ali
 
 **Phone:** +7 747 *** **\*\*\
-**Email:** talapali@mail.ru
+**Email:** talapali20@gmail.com
 
 # About myself
 
