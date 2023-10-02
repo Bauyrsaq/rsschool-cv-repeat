@@ -2,6 +2,7 @@
 
 * {
     box-sizing: border-box;
+    /* border: 1px solid red; */
 }
 
 html {
@@ -24,16 +25,20 @@ body {
     justify-content: space-between;
 }
 
+.bg-color {
+    background-color: #3687D9;
+}
+
 /* Link */
 
 .link {
     text-decoration: none;
-    color: #829985;
+    color: #FBEEAC;
     transition: color 0.5s;
 }
 
 .link:hover {
-    color: #5d7260;
+    color: #FBEEAC;
 }
 
 /* Header */
@@ -77,6 +82,27 @@ body {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985;
+    color: #816604;
 }
 
+/* Footer */
+
+.footer {
+    color: #FBEEAC;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyright {
+    margin: 18px;
+    line-height: 50px;
+}
+
+/* Logo */
+
+.logo {
+    width: 100px;
+}
