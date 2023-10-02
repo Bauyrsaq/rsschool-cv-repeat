@@ -1,1 +1,1 @@
-https://bauyrsaq.github.io/rsschool-cv-repeat/cv
+https://bauyrsaq.github.io/rsschool-cv-repeat/
