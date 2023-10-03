@@ -18,7 +18,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: #4d2323;
+    color: #26577C;
 
     display: flex;
     flex-direction: column;
@@ -26,19 +26,19 @@ body {
 }
 
 .bg-color {
-    background-color: #3687D9;
+    background-color: #A1CCD1;
 }
 
 /* Link */
 
 .link {
     text-decoration: none;
-    color: #FBEEAC;
+    color: #F4F2DE;
     transition: color 0.5s;
 }
 
 .link:hover {
-    color: #FBEEAC;
+    color: #E55604;
 }
 
 /* Header */
@@ -65,10 +65,14 @@ body {
 .main-container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .section {
-    width: 50%;
+    width: 48%;
+    padding: 10px 15px 20px;
+    border-bottom: 5px solid #B4B4B3;
+    margin-bottom: 20px;
 }
 
 @media (max-width: 768px) {
@@ -77,18 +81,52 @@ body {
     }
 }
 
+section .link {
+    color: #E9B384;
+}
+
+.section-profile {
+    width: 100%;
+    border-bottom: 20px solid #7C9D96;
+    display: flex;
+    justify-content: space-around;
+}
+
 .section-title {
     font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
+    color: #E9B384;
+}
+
+.section-subtitle {
+    font-size: 18px;
+    font-weight: 300;
     color: #816604;
+}
+
+
+.section-profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.section-profile-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section-item {
+    color: #26577C;
 }
 
 /* Footer */
 
 .footer {
-    color: #FBEEAC;
+    color: #26577C;
 }
 
 .footer-container {
@@ -99,6 +137,8 @@ body {
 .copyright {
     margin: 18px;
     line-height: 50px;
+    display: flex;
+    gap: 20px;
 }
 
 /* Logo */
