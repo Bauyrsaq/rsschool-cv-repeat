@@ -51,6 +51,7 @@ body {
 .nav-list {
     display: flex;
     justify-content: flex-end;
+    flex-wrap: wrap;
     align-items: center;
     list-style: none;
 }
@@ -132,6 +133,7 @@ section .link {
 .footer-container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .copyright {
@@ -141,8 +143,11 @@ section .link {
     gap: 20px;
 }
 
-/* Logo */
-
-.logo {
+.rss {
     width: 100px;
+    height: 45px;
+    margin: 18px;
+    background-image: url(./assets/svg/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
