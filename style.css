@@ -104,6 +104,7 @@ section .link {
 .section-subtitle {
     font-size: 18px;
     font-weight: 300;
+    text-transform: uppercase;
     color: #816604;
 }
 
